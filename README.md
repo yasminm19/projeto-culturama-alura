@@ -2,7 +2,7 @@
 
 <h2 align="center">Projeto feito em aula no curso <br> "Praticando CSS: Grid e Flexbox"</h2>
 
-<hr>
+
 
 ## 📚 Alguns temas abordados em aula:
 
